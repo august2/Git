@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/OSGi%Minimum-1.2"/>
+	<classpathentry kind="lib" path="/home/august/Documents/poi-3.0-rc4/poi-3.0-rc4-20070503.jar"/>
+	<classpathentry kind="lib" path="/home/august/Documents/poi-3.0-rc4/poi-contrib-3.0-rc4-20070503.jar"/>
+	<classpathentry kind="lib" path="/home/august/Documents/poi-3.0-rc4/poi-scratchpad-3.0-rc4-20070503.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
